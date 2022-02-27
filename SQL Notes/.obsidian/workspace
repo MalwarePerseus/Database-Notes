@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "4. Tables & Keys.md",
+            "file": "7. Update & Delete.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9f3439ade9a6e3ad",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Tables & Keys.md",
+                "file": "7. Update & Delete.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,14 +98,14 @@
   },
   "active": "25de49abe6e4acae",
   "lastOpenFiles": [
-    "4. Tables & Keys.md",
-    "3. Database Query.md",
+    "7. Update & Delete.md",
     "6. Constraints.md",
-    "2. SQL.md",
+    "3. Database Query.md",
+    "4. Tables & Keys.md",
     "5. Core SQL Datatypes.md",
+    "2. SQL.md",
     "0. Important Points.md",
     "1. Databases in General.md",
-    "7. Update & Delete.md",
     "Untitled 1.md",
     "Pasted image 20220217202558.png"
   ]
