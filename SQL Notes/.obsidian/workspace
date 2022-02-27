@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "6. Constraints.md",
+            "file": "4. Tables & Keys.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Constraints.md",
+                "file": "4. Tables & Keys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,20 +93,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "25de49abe6e4acae",
   "lastOpenFiles": [
-    "6. Constraints.md",
-    "7. Update & Delete.md",
-    "5. Core SQL Datatypes.md",
     "4. Tables & Keys.md",
     "3. Database Query.md",
+    "6. Constraints.md",
     "2. SQL.md",
+    "5. Core SQL Datatypes.md",
+    "0. Important Points.md",
     "1. Databases in General.md",
+    "7. Update & Delete.md",
     "Untitled 1.md",
-    "Pasted image 20220217202558.png",
-    "Untitled 2.md"
+    "Pasted image 20220217202558.png"
   ]
 }
